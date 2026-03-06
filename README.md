@@ -1,5 +1,5 @@
 ### ABOUT ME
-Hi, I’m Phi vo or (Phillip)
+Hi, I’m Phillip
 
 I’m interested in art and tech
 
