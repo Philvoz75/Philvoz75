@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I'm also a hobby photography
 
 
-<h1 align="center> Statement</h1>
+
 <h3 align="left">"I am driven by a mission to protect digital landscapes from evolving threats. My approach combines disciplined time management with a deep respect for cybersecurity laws and ethics. Whether I am analyzing vulnerabilities or refining my coding skills to improve security workflows, I prioritize accuracy and speed. I am ready to bring high accountability and a growth mindset to a security operations team.</h3>
   
 <h3 align="left">Connect with me:</h3>
